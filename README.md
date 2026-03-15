@@ -1,4 +1,4 @@
-# Responsive Company Website
+# Techcorp Landing Page
 A modern, responsive company landing page built with HTML, CSS, and JavaScript.
 
 ## Features
